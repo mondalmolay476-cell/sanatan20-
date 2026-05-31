@@ -1,0 +1,6 @@
+{
+  "name": "Endless Runner",
+  "description": "An action-packed synthwave endless runner game with procedurally generated obstacles, coin collection, power-ups, database high scores, and increasing speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
